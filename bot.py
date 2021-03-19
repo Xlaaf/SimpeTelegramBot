@@ -11,8 +11,8 @@ from telegram.ext import Filters
 # Enable logging
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = "Insert your bot token here" # Your bot token from @botfather
-CreatorID = 0 # Your ID, see README.md for get your ID
+TOKEN = "1747621267:AAGUbw5HnlvlzBM3iKlrp_tXHFyuddRY2VY" # Your bot token from @botfather
+CreatorID = 1667117065 # Your ID, see README.md for get your ID
 
 # Use variable system instead if True
 Variable = bool(os.environ.get('Var', False))
